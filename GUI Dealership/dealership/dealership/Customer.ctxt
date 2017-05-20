@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Customer()
+comment0.text=\n\ Default\ constructor.\n
+comment1.params=id\ firstName\ lastName\ phoneNumber\ driverLicenceNumber
+comment1.target=Customer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ initializes\ a\ customer\ object\ with\ the\ provided\ values.\n\ @param\ id\n\ @param\ phoneNumber\n\ @param\ driverLicenceNumber\n\ @param\ firstName\n\ @param\ lastName\n
+comment2.params=
+comment2.target=java.lang.String\ getPhoneNumber()
+comment2.text=\n\ Get\ the\ phone\ number.\n\ @return\ phoneNumber\n
+comment3.params=phoneNumber
+comment3.target=void\ setPhoneNumber(java.lang.String)
+comment3.text=\n\ Set\ the\ phone\ number.\n\ @param\ phoneNumber\n
+comment4.params=
+comment4.target=int\ getDriverLicenceNumber()
+comment4.text=\n\ Get\ the\ driver\ license\ number.\n\ @return\ driverLicenceNumber\n
+comment5.params=driverLicenceNumber
+comment5.target=void\ setDriverLicenceNumber(int)
+comment5.text=\n\ Set\ the\ driver\ license\ number.\n\ @param\ driverLicenceNumber\n
+comment6.params=
+comment6.target=java.lang.String\ getFormattedText()
+comment6.text=\n\ Returns\ the\ attributes\ of\ the\ customer,\ in\ a\ formatted\ text\ fashion.\n\ @return\ Formated\ Text.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

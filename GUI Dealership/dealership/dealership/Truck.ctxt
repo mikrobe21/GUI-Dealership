@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Truck()
+comment0.text=\n\n
+comment1.params=vin\ make\ model\ year\ mileage\ price\ maxLoadWeight\ length
+comment1.target=Truck(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ float,\ float,\ float)
+comment1.text=\n\ Constructor\ that\ initializes\ a\ Truck\ object\ with\ the\ given\ params.\n\ @param\ vin\n\ @param\ make\n\ @param\ model\n\ @param\ year\n\ @param\ mileage\n\ @param\ price\n\ @param\ maxLoadWeight\n\ @param\ length\n
+comment2.params=
+comment2.target=float\ getMaxLoadWeight()
+comment2.text=\n\n\ @return\n
+comment3.params=maxLoadWeight
+comment3.target=void\ setMaxLoadWeight(float)
+comment3.text=\n\n\ @param\ maxLoadWeight\n
+comment4.params=
+comment4.target=float\ getLength()
+comment4.text=\n\n\ @return\n
+comment5.params=length
+comment5.target=void\ setLength(float)
+comment5.text=\n\n\ @param\ length\n
+comment6.params=
+comment6.target=java.lang.String\ getFormattedText()
+comment6.text=\n\ Get\ the\ attributes\ of\ the\ truck,\ in\ a\ formatted\ text\ fashion.\n\ @return\ Formatted\ text\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PassengerCar()
+comment0.text=\n\ Default\ constructor.\ \n
+comment1.params=vin\ make\ model\ year\ mileage\ price\ bodyStyle
+comment1.target=PassengerCar(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ float,\ java.lang.String)
+comment1.text=\n\ Constructor\ that\ initializes\ a\ PassengerCar\ object\ with\ the\ given\ params.\n\ @param\ vin\ The\ Vehicle\ Identification\ Number\ (VIN)\ of\ the\ vehicle.\n\ @param\ make\ The\ make\ of\ the\ vehicle.\n\ @param\ model\ The\ model\ of\ the\ vehicle.\n\ @param\ year\ The\ production\ year\ of\ the\ vehicle.\n\ @param\ mileage\ The\ mileage\ counter\ of\ the\ vehicle.\n\ @param\ price\ The\ sale\ price\ of\ the\ vehicle.\n\ @param\ bodyStyle\ The\ body\ style\ of\ the\ car.\n
+comment2.params=
+comment2.target=java.lang.String\ getBodyStyle()
+comment2.text=\n\ Get\ the\ body\ style\ of\ the\ car.\n\ @return\n
+comment3.params=bodyStyle
+comment3.target=void\ setBodyStyle(java.lang.String)
+comment3.text=\n\ Set\ the\ body\ style\ of\ the\ car.\n\ @param\ bodyStyle\n
+comment4.params=
+comment4.target=java.lang.String\ getFormattedText()
+comment4.text=\n\ Get\ the\ attributes\ of\ the\ passenger\ car,\ in\ a\ formatted\ text\ fashion.\n\ @return\ Formatted\ text\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

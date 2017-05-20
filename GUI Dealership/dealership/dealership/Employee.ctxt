@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Employee()
+comment0.text=\n\ Default\ constructor.\n
+comment1.params=id\ firstName\ lastName\ monthlySalary\ bankAccountNumber
+comment1.target=Employee(int,\ java.lang.String,\ java.lang.String,\ float,\ int)
+comment1.text=\n\ Constructor\ initializes\ an\ employee\ object\ with\ the\ provided\ values.\n\ @param\ id\n\ @param\ firstName\n\ @param\ lastName\n\ @param\ monthlySalary\n\ @param\ bankAccountNumber\n
+comment2.params=
+comment2.target=float\ getMonthlySalary()
+comment2.text=\n\ Get\ the\ monthly\ salary.\n\ @return\ monthlySalary\n
+comment3.params=monthlySalary
+comment3.target=void\ setMonthlySalary(float)
+comment3.text=\n\ Set\ the\ monthly\ salary.\n\ @param\ monthlySalary\n
+comment4.params=
+comment4.target=int\ getBankAccountNumber()
+comment4.text=\n\ Get\ the\ bank\ account\ number.\n\ @return\n
+comment5.params=bankAccountNumber
+comment5.target=void\ setBankAccountNumber(int)
+comment5.text=\n\ Set\ the\ bank\ account\ number.\n\ @param\ bankAccountNumber\n
+comment6.params=
+comment6.target=java.lang.String\ getFormattedText()
+comment6.text=\n\ Returns\ the\ attributes\ of\ the\ employee,\ in\ a\ formatted\ text\ fashion.\n\ @return\ Formated\ Text.\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

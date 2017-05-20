@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=BadInputException(java.lang.String)
+comment0.text=\n\ Constructor,\ allows\ custom\ message\ assignment\ for\ thrown\ exception.\n\ @param\ message\n
+numComments=1
